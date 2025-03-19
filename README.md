@@ -36,6 +36,24 @@ Existen diferentes tipos de tarjetas de memoria en el mercado, cada una con sus 
 
 ### 6. **Tarjetas de memoria para consolas**
 - Ejemplos: **Memory Card** para PlayStation, **Memory Card 59/251** para Nintendo GameCube, y **VMU** (Visual Memory Unit) para Dreamcast. Estas eran esenciales para guardar el progreso en juegos y otros datos importantes.
+  
+### Ejemplos de tarjetas de memoria comerciales
+
+A continuación se mencionan algunas marcas y modelos reconocidos en el mercado:
+
+- SanDisk Extreme PRO SDXC (alta velocidad para fotografía profesional y video 4K).
+
+- Samsung EVO Select microSDXC (ideal para smartphones, drones y cámaras de acción).
+
+- Lexar Professional 2000x SDXC (destacada por su velocidad y confiabilidad).
+
+- Kingston Canvas React Plus (diseñada para manejar grandes volúmenes de datos rápidamente).
+
+- Sony TOUGH-G series SDXC (alta durabilidad para entornos extremos).
+
+- Transcend High Endurance microSDXC (pensada para grabación continua en cámaras de seguridad y dash cams).
+
+
 
 ## Características clave
 Cuando se elige una tarjeta de memoria, se deben considerar ciertos factores:
